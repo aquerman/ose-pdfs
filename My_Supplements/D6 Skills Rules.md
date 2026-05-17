@@ -1,3 +1,6 @@
+---
+dg-publish: false
+---
 # D6 Skill System
 
 Each skill has a rating from **1-in-6** to **5-in-6**. To use a skill, roll a d6. If the result is equal to or lower than the rating, the attempt succeeds. All skills begin at **1-in-6**. No skill may ever be raised above **5-in-6**.
