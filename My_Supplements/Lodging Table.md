@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 |        Inn Rooms         | Cost/Night | PP p/day | Amount |
 | :----------------------: | :--------: | :------: | :----: |

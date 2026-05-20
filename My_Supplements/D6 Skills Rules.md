@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 # D6 Skill System
 
